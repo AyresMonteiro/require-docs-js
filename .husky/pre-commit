@@ -1,0 +1,2 @@
+# Verify that all files have documentation
+bin/require-docs-js.js verify --extensions .js,.jsx,.ts,.tsx --docs-extension .md --docs-dir docs/
