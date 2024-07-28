@@ -1,7 +1,8 @@
 #! /usr/bin/env node
 
-const { cliConfigure, cliRun } = require('../lib/cli')
+const { cliConfigure, verify, initHook } = require('../lib/cli')
 
-const options = cliConfigure()
-
-cliRun(options)
+cliConfigure({
+  verifyCommand: verify,
+  initHookCommand: initHook,
+})

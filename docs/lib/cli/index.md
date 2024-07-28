@@ -1,3 +1,3 @@
 # lib/cli/index.js
 
-It is responsible for exposing functions that bind core functions to the command line interface.
+It is responsible for exposing functions to be used in CLI entry point.
