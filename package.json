@@ -4,7 +4,7 @@
   "description": "Husky hook for requiring name-indexed doc files.",
   "main": "./bin/require-docs.js",
   "bin": {
-    "require-docs": "./bin/require-docs-js.js"
+    "require-docs": "bin/require-docs-js.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
