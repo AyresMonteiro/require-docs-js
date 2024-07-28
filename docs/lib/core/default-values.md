@@ -1,4 +1,4 @@
-# lib/core/dafaultValues.js
+# lib/core/default-values.js
 
 It is responsible for defining default values for the `requireDocs` function.
 
