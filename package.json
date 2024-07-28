@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/AyresMonteiro/require-docs-js#readme",
   "dependencies": {
+    "@inquirer/prompts": "^5.3.4",
     "yargs": "^17.7.2"
   }
 }
