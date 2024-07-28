@@ -1,0 +1,25 @@
+{
+  "name": "require-docs",
+  "version": "1.0.0",
+  "description": "Husky hook for require name-indexed doc files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyresMonteiro/require-docs-js.git"
+  },
+  "keywords": [
+    "docs",
+    "husky",
+    "git",
+    "hook"
+  ],
+  "author": "Ayres Monteiro <main@ayresmonteiro.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AyresMonteiro/require-docs-js/issues"
+  },
+  "homepage": "https://github.com/AyresMonteiro/require-docs-js#readme"
+}
