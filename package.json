@@ -1,7 +1,7 @@
 {
   "name": "require-docs",
   "version": "1.0.0",
-  "description": "Husky hook for require name-indexed doc files.",
+  "description": "Husky hook for requiring name-indexed doc files.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

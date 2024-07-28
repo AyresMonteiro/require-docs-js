@@ -1,2 +1,2 @@
 # require-docs-js
-Husky hook for require name-indexed doc files.
+Husky hook for requiring name-indexed doc files.
