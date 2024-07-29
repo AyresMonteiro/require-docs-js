@@ -1,6 +1,6 @@
 {
   "name": "require-docs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Husky hook for requiring name-indexed doc files.",
   "main": "./bin/require-docs.js",
   "bin": {
