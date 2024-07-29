@@ -1,5 +1,5 @@
 {
-  "name": "@ayresmonteiro/require-docs",
+  "name": "require-docs",
   "version": "1.0.0",
   "description": "Husky hook for requiring name-indexed doc files.",
   "main": "./bin/require-docs.js",
