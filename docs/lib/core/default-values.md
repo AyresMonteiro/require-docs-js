@@ -6,4 +6,5 @@ The fact that default values are centered in a file make code reading easier, be
 
 It is consumed in:
 - `lib/core/index.js`
+- `lib/core/utils.js`
 - `lib/cli/init-hook.js`
