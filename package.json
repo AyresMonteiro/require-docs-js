@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/AyresMonteiro/require-docs-js#readme",
   "dependencies": {
-    "@inquirer/prompts": "^5.3.4",
+    "@inquirer/prompts": "^7.2.3",
     "chalk": "^5.4.1",
     "husky": "^9.1.3",
     "yargs": "^17.7.2"
